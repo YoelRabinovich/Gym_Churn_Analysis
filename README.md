@@ -1,9 +1,13 @@
 # 🏋️ Gym Churn Prediction & Retention Analytics
 
-### End-to-End Data Analysis Project | Python -  SQL -  Power BI
+### End-to-End Data Analysis Project | Python • SQL • Power BI
 
-![Project Status](https://img.shields.io/badge/Status-Completedhttps://img.shields.io/badge/Tools-Python%20|%20MySQL%20|%20PowerBI
-This project delivers a comprehensive analytics solution for tackling gym member churn. It uses customer behavioral data to flag high-risk members—particularly spotting a “Usage Cliff” before cancellations—and automates alerts to support effective retention actions, preventing revenue loss.
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Tools](https://img.shields.io/badge/Tools-Python%20|%20MySQL%20|%20PowerBI-blue)
+
+## 📖 Overview
+This project is a full-stack data analytics solution designed to tackle customer churn in the fitness industry. 
+The system identifies high-risk members based on behavioral patterns (specifically the "Usage Cliff" phenomenon) and generates automated alerts for retention teams to intervene before a subscription is cancelled.
 
 ## 🎯 The Business Problem
 - **Challenge:** Gym churn significantly undermines monthly recurring revenue.
@@ -57,3 +61,4 @@ Open `Gym_Retention_Dashboard.pbix` in Power BI Desktop and refresh to see data.
 **Author:** Joel, Open University Graduate (B.Sc. Computer Science)
 
 ***
+
